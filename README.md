@@ -6,6 +6,8 @@ cart_test.ts
 browse_test.ts
 drink_menu_test.ts
 
+For the test I was using: Visual studio code, codeceptjs, Android Studio, Appium Server GUI, Appium inspector
+
 For this test I was using emulated adnroid device via local Appium server
 platformVersion": "11.0"
 deviceName": "Pixel_3_API_30"
